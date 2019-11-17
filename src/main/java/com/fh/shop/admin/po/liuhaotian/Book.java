@@ -2,7 +2,7 @@ package com.fh.shop.admin.po.liuhaotian;
 
 public class Book {
 
-    private String asfdsfvsd;
+    private String liuhaotian;
 
     private String sdjvbhdcs;
 
@@ -36,12 +36,12 @@ public class Book {
         this.id = id;
     }
 
-    public String getAsfdsfvsd() {
-        return asfdsfvsd;
+    public String getLiuhaotian() {
+        return "123555";
     }
 
-    public void setAsfdsfvsd(String asfdsfvsd) {
-        this.asfdsfvsd = asfdsfvsd;
+    public void setLiuhaotian(String liuhaotian) {
+        this.liuhaotian = liuhaotian;
     }
 
     public String getSdjvbhdcs() {
