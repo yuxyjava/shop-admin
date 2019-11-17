@@ -5,6 +5,16 @@ public class book {
 
     private String age;
 
+    private int count;
+
+
+    public int getCount() {
+        return count;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
+    }
 
     public String getAge() {
         return age;
