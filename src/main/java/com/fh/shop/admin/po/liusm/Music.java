@@ -9,6 +9,8 @@ public class Music {
 
     private String musicPrice;
 
+    private String musicClickRate;
+
     public String getMusicName() {
         return musicName;
     }
@@ -31,5 +33,13 @@ public class Music {
 
     public void setMusicPrice(String musicPrice) {
         this.musicPrice = musicPrice;
+    }
+
+    public String getMusicClickRate() {
+        return musicClickRate;
+    }
+
+    public void setMusicClickRate(String musicClickRate) {
+        this.musicClickRate = musicClickRate;
     }
 }
