@@ -2,8 +2,9 @@ package com.fh.shop.admin.po.lishihui;
 
 import java.io.Serializable;
 
-public class Book implements Serializable {
+public class BookTwo implements Serializable {
     private Integer id;
+    private String  name;
 
     public Integer getId() {
         return id;
@@ -11,5 +12,13 @@ public class Book implements Serializable {
 
     public void setId(Integer id) {
         this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
