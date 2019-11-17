@@ -5,7 +5,7 @@ public class Book {
     private String name;
 
     public String getName() {
-        return name;
+        return "asd";
     }
 
     public void setName(String name) {
