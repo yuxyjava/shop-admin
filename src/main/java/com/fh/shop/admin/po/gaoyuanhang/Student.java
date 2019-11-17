@@ -12,6 +12,16 @@ public class Student implements Serializable {
 
     private String className;
 
+    private String aaa;
+
+    public String getAaa() {
+        return aaa;
+    }
+
+    public void setAaa(String aaa) {
+        this.aaa = aaa;
+    }
+
     public String getClassName() {
         return className;
     }
