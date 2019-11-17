@@ -3,7 +3,7 @@ package com.fh.shop.admin.po.liusm;
 
 public class Music {
 
-    private String musicName;
+    private String musicName;//音乐名
 
     private String musicType;
 
