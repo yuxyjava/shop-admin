@@ -1,8 +1,6 @@
-package com.fh.shop.admin.po.liuxy;
+package com.fh.shop.admin.po.LIUXY;
 
-import java.io.Serializable;
-
-public class Book implements Serializable {
+public class Book {
 
     private String name = "liuxy";
 
