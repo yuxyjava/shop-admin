@@ -8,7 +8,7 @@ public class Wz  {
     private BigDecimal price;
 
     public BigDecimal getPrice() {
-        return price;
+        return new Bigde;
     }
 
     public void setPrice(BigDecimal price) {
