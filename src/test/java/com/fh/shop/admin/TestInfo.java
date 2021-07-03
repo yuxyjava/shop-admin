@@ -2,7 +2,7 @@ package com.fh.shop.admin;
 
 import com.alibaba.fastjson.JSONObject;
 import org.junit.Test;
-import sun.applet.Main;
+//import sun.applet.Main;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;
